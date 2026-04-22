@@ -80,12 +80,6 @@ Deliver **data-driven insights** that help the airline:
 
 ---
 
-## 🏗️ Data Modeling Approach
-- ⭐ **Star Schema**
-  - Dimension: Customer profile (`customer_loyalty_history`)
-  - Fact: Monthly behavior (`customer_flight_activity`)
-- 🔗 Joins on `loyalty_number`
-- 🧩 Query pattern: `staging → metrics → insights`
 
 ---
 
@@ -143,9 +137,6 @@ This project highlights strong **80/20 dynamics**:
 
 ---
 
-## 🛠️ Tech Stack
-- SQL Server  
-- GitHub  
 
 ---
 
